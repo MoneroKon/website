@@ -10,3 +10,13 @@ We consider privacy to be a fundamental human right, and we acknowledge that the
 
 ### We hope you can contribute
 Come participate in discussions, make a proposal, and help us move privacy forward one conversation at a time. A cashless society lacking basic financial privacy can not remain an open society for long.
+
+### Connect with us
+
+*  [Matrix](https://matrix.to/#/#monero-events:monero.social)
+*  [Signal](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8)
+*  [Twitter](https://twitter.com/MoneroKon)
+
+### Monero Konferenco 2023
+
+TBA
