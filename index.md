@@ -17,6 +17,15 @@ Come participate in discussions, make a proposal, and help us move privacy forwa
 *  [Signal](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8)
 *  [Twitter](https://twitter.com/MoneroKon)
 
+
+### Monero Konferenco 2022
+
+*  [Slides](https://github.com/MoneroKon/meta/blob/main/slides/2022/talks.md)
+
+*  Videos (WIP)
+
 ### Monero Konferenco 2023
 
 TBA
+
+
