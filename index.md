@@ -21,7 +21,6 @@ Come participate in discussions, make a proposal, and help us move privacy forwa
 ### Monero Konferenco 2022
 
 *  [Slides](https://github.com/MoneroKon/meta/blob/main/slides/2022/talks.md)
-
 *  Videos (WIP)
 
 ### Monero Konferenco 2023
