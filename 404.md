@@ -34,7 +34,7 @@ Ask before snapping, all persons in a photo/video must have explicitly given con
 
 ### Monero Konferenco 2022
 *  [Slides](https://github.com/MoneroKon/meta/blob/main/slides/2022/talks.md)
-*  Videos (WIP)
+*  [Videos](https://www.youtube.com/playlist?list=PLsSYUeVwrHBndRQoQ-vLezzlHPLRDNzaw)
 
 ### Monero Konferenco 2023
 
