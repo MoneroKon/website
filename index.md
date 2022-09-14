@@ -38,6 +38,6 @@ Ask before snapping, all persons in a photo/video must have explicitly given con
 
 ### Monero Konferenco 2023
 
-TBA
+TBA ([Kanban](https://github.com/orgs/MoneroKon/projects/1/views/1))
 
 
