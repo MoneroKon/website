@@ -15,10 +15,6 @@ We consider privacy to be a fundamental human right, and we acknowledge that the
 ### We hope you can contribute
 Come participate in discussions, make a proposal, and help us move privacy forward one conversation at a time. A cashless society lacking basic financial privacy can not remain an open society for long.
 
-### Location
-
-**TBD**
-
 ### Connect with us
 
 *  [Matrix](https://matrix.to/#/#monero-events:monero.social)
