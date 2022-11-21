@@ -10,9 +10,9 @@
   border: none;
   color: #FFFFFF;
   text-align: center;
-  font-size: 28px;
+  font-size: 16px;
   padding: 20px;
-  width: 200px;
+  width: 300px;
   cursor: pointer;
   margin: 5px;
 }
@@ -31,3 +31,5 @@
 a:active {
   color: #FF6600;
 }
+
+body {background-color: coral;}
