@@ -1,6 +1,6 @@
 title: Monero Konferenco 2023
 logo: /assets/img/logo.jpg
-description:
+description: A technical conference in privacy and financial technology
 show_downloads: false
-google_analytics: false
+google_analytics: 
 theme: jekyll-theme-minimal
