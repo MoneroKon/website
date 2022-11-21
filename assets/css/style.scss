@@ -57,22 +57,22 @@ h5 {
   color: #f8f8f2;
 }
 
- /* unvisited link */
 a:link {
   color: #FFFFFF;
 }
 
-/* visited link */
 a:visited {
   color: #FFFFFF;
 }
 
-/* mouse over link */
 a:hover {
   color: #50fa7b;
 }
 
-/* selected link */
 a:active {
   color: #bd93f9;
-} 
+}
+
+b, strong {
+   color: #f8f8f2;
+   }
