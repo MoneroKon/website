@@ -17,7 +17,7 @@ Come participate in discussions, make a proposal, and help us move privacy forwa
 
 ### Sponsorship
 
-If your company would like to be sponsor of MoneroKon and/or have an exhibit space (2m x 2m), reach out to us at: sponsor@monerokon.com
+If your company would like to be a sponsor of MoneroKon and/or have an exhibit space (2m x 2m), reach out to us at: sponsor@monerokon.com
 
 ### Connect with us
 
