@@ -3,7 +3,7 @@ layout: default
 ---
 
 ### A technical conference in privacy and financial technology
-Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scientists, and philosophers and is designed to disseminate scientific and technical results in privacy and financial technologies like censorship-resistant digital cash. The event is funded by generous donations from the Monero community and support from sponsors.
+Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scientists, and philosophers and is designed to disseminate scientific and technical results in privacy and financial technologies like censorship-resistant digital cash. The event is funded by generous donations from the Monero community and support from sponsors. Come participate in discussions, make a proposal, and help us move privacy forward one conversation at a time. A cashless society lacking basic financial privacy can not remain an open society for long.
 
 [Call for Presentations](https://cfp.monerokon.com/2023/cfp){: .btn-success target="_blank"}
 
@@ -11,13 +11,11 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 ### Sponsorship
 
-If your company would like to be a sponsor of MoneroKon and/or have an exhibition space (2m x 2m), reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com)
+If your company would like to be a sponsor of MoneroKon 2023 and/or have an exhibition space at the event, reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com)
 
-### Privacy is a fundamental right
-We consider privacy to be a fundamental human right, and we acknowledge that the use of privacy technology is, for some, a matter of personal safety.
+### Volunteers
 
-### We hope you can contribute
-Come participate in discussions, make a proposal, and help us move privacy forward one conversation at a time. A cashless society lacking basic financial privacy can not remain an open society for long.
+We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), send us an email at: [volunteers@monerokon.com](mailto:volunteers@monerokon.com), or join us on [Libera.Chat](https://libera.chat) IRC #monero-events, [Matrix](https://matrix.to/#/#monero-events:monero.social), the [Signal public group](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8).
 
 ### Safety and Security
 
