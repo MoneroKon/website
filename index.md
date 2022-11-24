@@ -15,7 +15,7 @@ If your company would like to be a sponsor of MoneroKon 2023 and/or have an exhi
 
 ### Volunteers
 
-We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), send us an email at: [volunteers@monerokon.com](mailto:volunteers@monerokon.com), or join us on [Libera.Chat](https://libera.chat) IRC #monero-events, [Matrix](https://matrix.to/#/#monero-events:monero.social), the [Signal public group](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8).
+We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), send us an email at: [volunteers@monerokon.com](mailto:volunteers@monerokon.com), or join us on [Libera.Chat](https://libera.chat) IRC #monero-events, [Matrix](https://matrix.to/#/#monero-events:monero.social), the [Signal public group](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8), or [Telegram group](https://t.me/monerokon). You can find the role pledging list [here](https://github.com/MoneroKon/meta/issues/4), just comment in the issue to take on a role.
 
 ### Safety and Security
 
