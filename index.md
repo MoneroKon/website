@@ -9,13 +9,17 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 [Buy Ticket](https://shop.monerokon.com/monerokon/2023/){: .btn-success target="_blank"}
 
+### Live Stream
+
+![](https://live.monerokon.com/embed/video)
+
 ### Sponsorship
 
 If your company would like to be a sponsor of MoneroKon 2023 and/or have an exhibition space at the event, reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com)
 
 ### Volunteers
 
-We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), send us an email at: [volunteers@monerokon.com](mailto:volunteers@monerokon.com), or join us on [Libera.Chat](https://libera.chat) IRC #monero-events, [Matrix](https://matrix.to/#/#monero-events:monero.social), <a rel="me" href="https://social.monerokon.com/@mk">Mastodon</a>, the [Signal public group](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8), or [Telegram group](https://t.me/monerokon). You can find the role pledging list [here](https://github.com/MoneroKon/meta/issues/4), just comment in the issue to take on a role.
+We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), send us an email at: [volunteers@monerokon.com](mailto:volunteers@monerokon.com), or join us on [Libera.Chat](https://libera.chat) IRC #monero-events, [Matrix](https://matrix.to/#/#monero-events:monero.social), the [Signal public group](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8), or [Telegram group](https://t.me/monerokon). You can find the role pledging list [here](https://github.com/MoneroKon/meta/issues/4), just comment in the issue to take on a role.
 
 ### Safety and Security
 
