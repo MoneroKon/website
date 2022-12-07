@@ -9,6 +9,8 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 [Buy Ticket](https://shop.monerokon.com/monerokon/2023/){: .btn-success target="_blank"}
 
+[Live Stream](https://live.monerokon.com/){: .btn-success target="_blank"}
+
 ### Sponsorship
 
 If your company would like to be a sponsor of MoneroKon 2023 and/or have an exhibition space at the event, reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com)
