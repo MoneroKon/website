@@ -11,7 +11,9 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 ### Live Stream
 
-![](https://live.monerokon.com/embed/video)
+<video width="500" controls>
+  <source src="https://live.monerokon.com/hls/stream.m3u8" type="application/x-mpegURL">
+</video> 
 
 ### Sponsorship
 
