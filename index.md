@@ -7,9 +7,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 [Call for Presentations](https://cfp.monerokon.com/2023/cfp){: .btn-success target="_blank"}
 
-[Buy Ticket](https://shop.monerokon.com/monerokon/2023/){: .btn-success target="_blank"}
-
-[Live Stream](https://live.monerokon.com/){: .btn-success target="_blank"}
+[Donate XMR](https://ccs.getmonero.org/funding-required/){: .btn-success target="_blank"}
 
 ### Sponsorship
 
