@@ -4,7 +4,7 @@ layout: default
 
 ## Conference Sponsorship Packages
 | Supporter | Contributor | Cypherpunk Hero  |
-|---|---|---|
+|:-------------|:------------------|:------|
 | (5) slots |  (7) slots | **Exclusive**: only (3) slots |
 | (2) GA tickets | (4) GA tickets | (4) VIP tickets |
 | Company name in end-credits of uploaded videos | Company name in end-credits of uploaded videos | Company name in end-credits of uploaded videos |
@@ -17,6 +17,7 @@ layout: default
 | - | - | Company logo featured prominently in main stage area |
 | - | - | MC shout-outs |
 | - | - | (1) 30-minute speaking slot |
-| 1.500 EUR | 4.500 EUR | 9.000 EUR |
+| **1.500 EUR** | **4.500 EUR** | **9.000 EUR** |
+
 
 [back](./)
