@@ -7,8 +7,6 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 [Call for Presentations](https://cfp.monerokon.com/2023/cfp){: .btn-success target="_blank"}
 
-[Donate XMR](https://ccs.getmonero.org/funding-required/){: .btn-success target="_blank"}
-
 ### Sponsorship
 
 If your company would like to be a sponsor of MoneroKon 2023 and/or have an exhibition space at the event, reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com)
