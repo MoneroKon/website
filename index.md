@@ -9,7 +9,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 ### Sponsorship
 
-If your company would like to be a sponsor of MoneroKon 2023 and/or have an exhibition space at the event, check out the available Conference Sponsorship Packages [here](https://monerokon.com/sponsor).
+If your company would like to be a sponsor of MoneroKon 2023, check out the available Conference Sponsorship Packages [here](https://monerokon.com/sponsor).
 
 ### Volunteers
 
