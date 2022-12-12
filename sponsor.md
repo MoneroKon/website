@@ -4,7 +4,7 @@ layout: default
 
 ## Conference Sponsorship Packages
 
-| #### Supporter | #### Contributor | #### Cypherpunk Hero  |
+| Supporter | Contributor | Cypherpunk Hero  |
 |:-------------|:------------------|:------|
 | (5) slots |  (7) slots | **Exclusive**: only (3) slots |
 | (2) GA tickets | (4) GA tickets | (4) VIP tickets |
