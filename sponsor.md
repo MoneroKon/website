@@ -79,4 +79,6 @@ layout: default
 </tbody>
 </table>
 
+Reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com) [[key ID: 0x1B3E1595](https://openpgpkey.monerokon.com/sponsor.asc)]
+
 [back](./)
