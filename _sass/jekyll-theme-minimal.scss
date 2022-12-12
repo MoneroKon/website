@@ -85,7 +85,15 @@ table {
   border-collapse:collapse;
 }
 
-th, td {
+td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+th {
+  color:#ff6600;
+  font-size:16px;
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #e5e5e5;
