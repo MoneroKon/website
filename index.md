@@ -31,9 +31,6 @@ Ask before snapping, all persons in a photo/video must have explicitly given con
 
 ### Past Events
 
-#### Monero Konferenco 2019
-*  [Videos](https://www.youtube.com/playlist?list=PLsSYUeVwrHBkJHJg_l2uDgbicDJ1PmAVW)
-
 #### Monero Konferenco 2022
 *  [Slides](https://github.com/MoneroKon/meta/blob/main/slides/2022/talks.md)
 *  [Videos](https://www.youtube.com/playlist?list=PLsSYUeVwrHBndRQoQ-vLezzlHPLRDNzaw)
@@ -44,4 +41,20 @@ Ask before snapping, all persons in a photo/video must have explicitly given con
    - [MajesticBank](https://majesticbank.sc)
    - [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
    - [CicadaBank](https://flexiana.com)
+  
+#### Monero Konferenco 2019
+*  [Videos](https://www.youtube.com/playlist?list=PLsSYUeVwrHBkJHJg_l2uDgbicDJ1PmAVW)
+*  Sponsors
+   - [Cypher Market](https://www.cyphermarket.com)
+   - [Tari](https://www.tari.com)
+   - XMR.to
+   - [Symas](https://www.symas.com)
+   - [Monero Talk](https://www.monerotalk.live)
+   - MorphToken
+   - [Core Scientific](https://corescientific.com)
+   - [Cake Wallet](https://cakewallet.com)
+   - [MyMonero](https://mymonero.com)
+   - [Magic Grants](https://magicgrants.org)
+   - [INSIGHT](https://www.insight.com)
+   - [GloBee](https://globee.com)
   
