@@ -37,3 +37,11 @@ Ask before snapping, all persons in a photo/video must have explicitly given con
 #### Monero Konferenco 2022
 *  [Slides](https://github.com/MoneroKon/meta/blob/main/slides/2022/talks.md)
 *  [Videos](https://www.youtube.com/playlist?list=PLsSYUeVwrHBndRQoQ-vLezzlHPLRDNzaw)
+*  Sponsors
+   - [RINO](https://rino.io)
+   - [Cake Wallet](https://cakewallet.com)
+   - [IVPN](https://www.ivpn.net)
+   - [MajesticBank](https://majesticbank.sc)
+   - [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
+   - [CicadaBank](https://flexiana.com)
+  
