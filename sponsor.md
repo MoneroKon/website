@@ -48,8 +48,8 @@ layout: default
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
-<td style="height: 23px;">(1) Exhibitor booth space (2x2m)</td>
-<td style="height: 23px;">(1) Exhibitor booth space (2x2m)</td>
+<td style="height: 23px;">Exhibitor booth space (2x2m)</td>
+<td style="height: 23px;">Exhibitor booth space (2x2m)</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
