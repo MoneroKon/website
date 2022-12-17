@@ -18,20 +18,9 @@ If your company would like to be a sponsor of MoneroKon 2023, check out the avai
 ![logo](sponsor-logo.png){: width="100px" style="text-align:center; padding-right:10px" } ![logo](sponsor-logo.png){: width="100px" style="text-align:center; padding-right:10px" } ![logo](sponsor-logo.png){: width="100px" style="text-align:center; padding-right:10px" }
 
 #### Contributors
-- Sponsor
-- Sponsor
-- Sponsor
-- Sponsor
-- Sponsor
-- Sponsor
-- Sponsor
-
-#### Supporters
-- Sponsor
-- Sponsor
-- Sponsor
-- Sponsor
-- Sponsor
+- Company name here
+- Company name here
+- Company name here
 
 #### Volunteers
 
