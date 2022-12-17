@@ -69,7 +69,7 @@ layout: default
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
 <td style="height: 23px;">-</td>
-<td style="height: 23px;">(1) 30-minute speaking slot</td>
+<td style="height: 23px;">30-minute speaking slot</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
