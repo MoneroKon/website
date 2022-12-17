@@ -53,7 +53,7 @@ layout: default
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
-<td style="height: 23px;">(2) Speaker&rsquo;s Dinner invites</td>
+<td style="height: 23px;">-</td>
 <td style="height: 23px;">(2) Speaker&rsquo;s Dinner invites</td>
 </tr>
 <tr style="height: 23px;">
