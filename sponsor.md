@@ -11,7 +11,7 @@ layout: default
 <td style="height: 23px;"><h3>Cypherpunk Hero</h3></td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;">(20) slots</td>
+<td style="height: 23px;">(10) slots</td>
 <td style="height: 23px;"><strong>Exclusive</strong>: only (3) slots</td>
 </tr>
 <tr style="height: 23px;">
