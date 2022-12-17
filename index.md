@@ -13,7 +13,15 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 If your company would like to be a sponsor of MoneroKon 2023, check out the available Conference Sponsorship Packages [here](https://monerokon.com/sponsor).
 
-### Volunteers
+#### Cypherpunk Heros
+
+![logo](sponsor-logo.png){: width="100px" style="float:center; padding-right:5px" } ![logo](sponsor-logo.png){: width="100px" style="float:center; padding-right:5px" } ![logo](sponsor-logo.png){: width="100px" style="float:center; padding-right:5px" }
+
+#### Contributors
+
+#### Supporters
+
+#### Volunteers
 
 We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), send us an email at: [volunteers@monerokon.com](mailto:volunteers@monerokon.com), or join us on [Libera.Chat](https://libera.chat) IRC #monero-events, [Matrix](https://matrix.to/#/#monero-events:monero.social), the [Signal public group](https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8), or [Telegram group](https://t.me/monerokon). You can find the role pledging list [here](https://github.com/MoneroKon/meta/issues/4), just comment in the issue to take on a role.
 
