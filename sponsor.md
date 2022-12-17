@@ -63,8 +63,8 @@ layout: default
 <td style="height: 23px;">(2) VIP tickets</td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;"><strong>4.500 EUR</strong></td>
-<td style="height: 23px;"><strong>9.000 EUR</strong></td>
+<td style="height: 23px;"><strong>4.000 EUR</strong></td>
+<td style="height: 23px;"><strong>8.000 EUR</strong></td>
 </tr>
 </tbody>
 </table>
@@ -87,7 +87,7 @@ layout: default
 <td style="height: 23px;">Exhibitor booth space (2x2m)</td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;"><strong>1.500 EUR</strong></td>
+<td style="height: 23px;"><strong>500 EUR</strong></td>
 </tr>
 </tbody>
 </table>
