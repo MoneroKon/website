@@ -18,8 +18,8 @@ layout: default
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">(2) GA tickets</td>
-<td style="height: 23px;">(4) GA tickets</td>
-<td style="height: 23px;">(4) VIP tickets</td>
+<td style="height: 23px;">(2) GA tickets</td>
+<td style="height: 23px;">(2) GA tickets</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Company name in end-credits of uploaded videos</td>
@@ -34,17 +34,17 @@ layout: default
 <tr style="height: 23px;">
 <td style="height: 23px;">Company logo on website</td>
 <td style="height: 23px;">Company logo on website</td>
-<td style="height: 23px;">Company logo on website as &ldquo;Main Partner&rdquo;</td>
+<td style="height: 23px;">Company logo on website</td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;">(1) Social media post acknowledgement</td>
-<td style="height: 23px;">(1) Social media post acknowledgement</td>
-<td style="height: 23px;">(2) Social media post acknowledgements</td>
+<td style="height: 23px;">Social media post acknowledgement</td>
+<td style="height: 23px;">Social media post acknowledgement</td>
+<td style="height: 23px;">Social media post acknowledgement</td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;">Company logo shown during live stream on shared-screen</td>
-<td style="height: 23px;">Company logo shown during live stream on shared-screen</td>
-<td style="height: 23px;">Custom company logo full-screen animation shown during live stream</td>
+<td style="height: 23px;">Company logo shown during live stream</td>
+<td style="height: 23px;">Company logo shown during live stream</td>
+<td style="height: 23px;">Company logo shown during live stream</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
@@ -54,7 +54,7 @@ layout: default
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
 <td style="height: 23px;">(2) Speaker&rsquo;s Dinner invites</td>
-<td style="height: 23px;">(4) Speaker&rsquo;s Dinner invites</td>
+<td style="height: 23px;">(2) Speaker&rsquo;s Dinner invites</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">-</td>
@@ -70,6 +70,11 @@ layout: default
 <td style="height: 23px;">-</td>
 <td style="height: 23px;">-</td>
 <td style="height: 23px;">(1) 30-minute speaking slot</td>
+</tr>
+<tr style="height: 23px;">
+<td style="height: 23px;">-</td>
+<td style="height: 23px;">-</td>
+<td style="height: 23px;">(2) VIP tickets</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;"><strong>1.500 EUR</strong></td>
