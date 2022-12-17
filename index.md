@@ -15,7 +15,23 @@ If your company would like to be a sponsor of MoneroKon 2023, check out the avai
 
 #### Cypherpunk Heros
 
-![logo](sponsor-logo.png){: width="100px" style="float:center; padding-right:5px" } ![logo](sponsor-logo.png){: width="100px" style="float:center; padding-right:5px" } ![logo](sponsor-logo.png){: width="100px" style="float:center; padding-right:5px" }
+![logo](sponsor-logo.png){: width="100px" style="text-align:center; padding-right:10px" } ![logo](sponsor-logo.png){: width="100px" style="text-align:center; padding-right:10px" } ![logo](sponsor-logo.png){: width="100px" style="text-align:center; padding-right:10px" }
+
+#### Contributors
+- Sponsor
+- Sponsor
+- Sponsor
+- Sponsor
+- Sponsor
+- Sponsor
+- Sponsor
+
+#### Supporters
+- Sponsor
+- Sponsor
+- Sponsor
+- Sponsor
+- Sponsor
 
 #### Volunteers
 
