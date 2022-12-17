@@ -32,9 +32,9 @@ layout: default
 <td style="height: 23px;">Company logo on roll-up banners near attendee registration area</td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;">Company logo on website</td>
-<td style="height: 23px;">Company logo on website</td>
-<td style="height: 23px;">Company logo on website</td>
+<td style="height: 23px;">Text link to company website on our home page</td>
+<td style="height: 23px;">Text link to company website on our home page</td>
+<td style="height: 23px;"><b>Image logo</b> link to company website on our home page</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Social media post acknowledgement</td>
