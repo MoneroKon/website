@@ -19,7 +19,7 @@ If your company would like to be a sponsor of MoneroKon 2023, check out the avai
 - Company name here
 
 #### Supporter
-- [Digilol](https://digilol.net)
+- Company name here
 
 #### Volunteers
 
