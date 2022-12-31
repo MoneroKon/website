@@ -79,12 +79,12 @@ layout: default
 <tr style="height: 23px;">
 <td style="height: 23px;"><strong>1.500 EUR*</strong></td>
 <td style="height: 23px;"><strong>4.500 EUR*</strong></td>
-<td style="height: 23px;"><strong>9.000 EUR*</strong></td>
+<td style="height: 23px;"><strong>9.000 EUR</strong></td>
 </tr>
 </tbody>
 </table>
 
-Reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com) [[key ID: 0x1B3E1595](https://openpgpkey.monerokon.com/sponsor.asc)]
+You can find our sponsorship policy [here](https://github.com/MoneroKon/meta/blob/main/sponsorship-policy.md). If your company would like to support the event, reach out to us at: [sponsor@monerokon.com](mailto:sponsor@monerokon.com) [[key ID: 0x1B3E1595](https://openpgpkey.monerokon.com/sponsor.asc)]
 
 *Monetary contribution or in-kind products/services of similar value
 
