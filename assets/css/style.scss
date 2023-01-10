@@ -54,19 +54,19 @@ h5 {
 }
 
 a:link {
-  color: #5f6164;
-}
-
-a:visited {
-  color: #5f6164;
-}
-
-a:hover {
   color: #ef8734;
 }
 
+a:visited {
+  color: #ef8734;
+}
+
+a:hover {
+  color: #5f6164;
+}
+
 a:active {
-  color: #f8c649;
+  color: #252525;
 }
 
 b, strong {
