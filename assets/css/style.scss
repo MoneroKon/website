@@ -6,9 +6,9 @@
 .btn-success {
   display: inline-block;
   border-radius: 4px;
-  background-color: #4C4C4C;
-  border: none;
-  color: #FFFFFF;
+  background-color: #white;
+  border: 2px solid #5f6164;
+  color: #5f6164;
   text-align: center;
   font-size: 16px;
   padding: 20px;
@@ -23,9 +23,8 @@
 }
 
 .btn-success:hover {
-   color: #FFFFFF;
-    background-color: #4C4C4C;
-    border-color: #4C4C4C;
+    color: #FFFFFF;
+    background-color: #ef8734;
 }
 
 body {
