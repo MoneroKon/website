@@ -11,7 +11,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 ## Cypherpunk Heros
 
-<a href="https://cakewallet.com" title="Cake Wallet" style="position: absolute; left: 3.25%; top: 17.5%; width: 44.75%; height: 38.75%; z-index: 2;"></a><a href="https://majesticbank.sc" title="Majestic Bank" style="position: absolute; left: 50.5%; top: 17.75%; width: 46.25%; height: 38.5%; z-index: 2;"></a><a href="https://rino.io" title="RINO" style="position: absolute; left: 4.75%; top: 59%; width: 82.5%; height: 33.5%; z-index: 2;"><img src="https://monerokon.com/assets/img/sponsors.png"></a>
+<p style="text-align:center;"><img src="https://monerokon.com/assets/img/sponsors.png"></p>
 
 ## Contributors
 - [IVPN](https://www.ivpn.net)
