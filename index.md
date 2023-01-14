@@ -9,27 +9,21 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 [Call for Presentations](https://cfp.monerokon.com/2023/cfp){: .btn-success target="_blank"}
 
+## Cypherpunk Heros
+
+<a href="https://cakewallet.com" title="Cake Wallet" style="position: absolute; left: 3.25%; top: 17.5%; width: 44.75%; height: 38.75%; z-index: 2;"></a><a href="https://majesticbank.sc" title="Majestic Bank" style="position: absolute; left: 50.5%; top: 17.75%; width: 46.25%; height: 38.5%; z-index: 2;"></a><a href="https://rino.io" title="RINO" style="position: absolute; left: 4.75%; top: 59%; width: 82.5%; height: 33.5%; z-index: 2;"></a>
+
+## Contributors
+- [IVPN](https://www.ivpn.net)
+
+## Supporter
+- Company name here
+
 ### Sponsorship
 
 If your company would like to be a sponsor of MoneroKon 2023, check out the available Conference Sponsorship Packages [here](https://monerokon.com/sponsor).
 
-### Cypherpunk Heros
-
-<img src="https://monerokon.com/assets/img/sponsors.png" usemap="#image-map">
-
-<map name="image-map">
-    <area target="_blank" alt="Cake Wallet" title="Cake Wallet" href="https://cakewallet.com" coords="101,135,NaN" shape="circle">
-    <area target="_blank" alt="Majestic Bank " title="Majestic Bank " href="https://majesticbank.sc" coords="293,151,NaN" shape="circle">
-    <area target="_blank" alt="RINO" title="RINO" href="https://rino.io" coords="169,307" shape="rect">
-</map>
-
-### Contributors
-- [IVPN](https://www.ivpn.net)
-
-### Supporter
-- Company name here
-
-#### Volunteers
+### Volunteers
 
 We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), fill out the form [here](https://cryptpad.disroot.org/form/#/2/form/view/Z8v7RE0D+Axf+54kTA-otpnJ-Krlfs8gJwoktERKUrM/embed/).
 
