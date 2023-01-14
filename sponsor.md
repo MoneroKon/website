@@ -9,12 +9,12 @@ layout: default
 <tr style="height: 23px;">
 <td style="height: 23px;"><h3>Supporter</h3></td>
 <td style="height: 23px;"><h3>Contributor</h3></td>
-<td style="height: 23px;"><h3>Cypherpunk Hero</h3></td>
+<td style="height: 23px;"><strike>Cypherpunk Hero</strike></td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Unlimited</td>
-<td style="height: 23px;">(7) spots available</td>
-<td style="height: 23px;"><strong>Exclusive</strong>: only (3) spots available</td>
+<td style="height: 23px;">(<strike>7</strike> 6) spots available</td>
+<td style="height: 23px;"><strike>Exclusive: only (3) spots available</strike></td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Company provided items to be given away as door prizes</td>
@@ -79,7 +79,7 @@ layout: default
 <tr style="height: 23px;">
 <td style="height: 23px;"><strong>1.500 EUR*</strong></td>
 <td style="height: 23px;"><strong>4.500 EUR*</strong></td>
-<td style="height: 23px;"><strong>9.000 EUR</strong></td>
+<td style="height: 23px;"><strike>9.000 EUR</strike> <strong>SOLD OUT</strong></td>
 </tr>
 </tbody>
 </table>
