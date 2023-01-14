@@ -13,14 +13,20 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 If your company would like to be a sponsor of MoneroKon 2023, check out the available Conference Sponsorship Packages [here](https://monerokon.com/sponsor).
 
-#### Cypherpunk Heros
+### Cypherpunk Heros
 
-![logo](assets/img/sponsors.png){: width="100%" style="text-align:center" }
+<img src="https://monerokon.com/assets/img/sponsors.png" usemap="#image-map">
 
-#### Contributors
+<map name="image-map">
+    <area target="_blank" alt="Cake Wallet" title="Cake Wallet" href="https://cakewallet.com" coords="101,135,NaN" shape="circle">
+    <area target="_blank" alt="Majestic Bank " title="Majestic Bank " href="https://majesticbank.sc" coords="293,151,NaN" shape="circle">
+    <area target="_blank" alt="RINO" title="RINO" href="https://rino.io" coords="169,307" shape="rect">
+</map>
+
+### Contributors
 - [IVPN](https://www.ivpn.net)
 
-#### Supporter
+### Supporter
 - Company name here
 
 #### Volunteers
