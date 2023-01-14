@@ -15,9 +15,9 @@ If your company would like to be a sponsor of MoneroKon 2023, check out the avai
 
 #### Cypherpunk Heros
 
-[![logo](assets/img/cw.png){: width="250px" style="text-align:center; padding-right:2px" }](https://cakewallet.com) [![logo](assets/img/mb.png){: width="250px" style="text-align:center; padding-right:2px" }](https://majesticbank.sc)
+[![logo](assets/img/cw.png){: width="225px" style="text-align:center; padding-right:1px" }](https://cakewallet.com) [![logo](assets/img/mb.png){: width="225px" style="text-align:center" }](https://majesticbank.sc)
 
-[![logo](assets/img/rino.png){: width="200px" style="text-align:center; padding-right:2px" }](https://rino.io)
+[![logo](assets/img/rino.png){: width="225px" style="text-align:center" }](https://rino.io)
 
 #### Contributors
 - [IVPN](https://www.ivpn.net)
