@@ -73,3 +73,10 @@ b, strong {
    }
 
 .social:hover {filter: invert(83%) sepia(39%) saturate(6755%) hue-rotate(338deg) brightness(98%) contrast(91%); transform: scale(1.2);}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
