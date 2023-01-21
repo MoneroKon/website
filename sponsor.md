@@ -13,7 +13,7 @@ layout: default
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Unlimited</td>
-<td style="height: 23px;">(<strike>7</strike> 6) spots available</td>
+<td style="height: 23px;">(<strike>7</strike> 5) spots available</td>
 <td style="height: 23px;"><strike>Exclusive: only (3) spots available</strike></td>
 </tr>
 <tr style="height: 23px;">
