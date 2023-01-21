@@ -13,7 +13,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 ## Contributors
 - [IVPN](https://www.ivpn.net)
 - [Digilol](https://digilol.net)
-- [CicadaBank](https://flexiana.com)
+- [CicadaBank](https://cicadabank.com)
 
 ## Supporter
 - Company name here
@@ -49,7 +49,7 @@ Ask before snapping, all persons in a photo/video must have explicitly given con
    - [IVPN](https://www.ivpn.net)
    - [MajesticBank](https://majesticbank.sc)
    - [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
-   - [CicadaBank](https://flexiana.com)
+   - [CicadaBank](https://cicadabank.com)
   
 #### Denver 2019
 *  [Videos](https://www.youtube.com/playlist?list=PLsSYUeVwrHBkJHJg_l2uDgbicDJ1PmAVW)
