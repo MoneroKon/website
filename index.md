@@ -14,6 +14,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 - [IVPN](https://www.ivpn.net)
 - [Digilol](https://digilol.net)
 - [CicadaBank](https://cicadabank.com)
+- [Nym Technologies](https://nymtech.net)
 
 ## Supporter
 - Company name here
