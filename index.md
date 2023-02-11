@@ -7,7 +7,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 [Ticket Waiting List](https://d1131e84.sibforms.com/serve/MUIEAIDyBPkU3xE5879Y9LCcF_C54ZSRgkalDyG-E4MHimQ9v5WsbMM4fPQpYFYY9Vy9GlzgXO3YG2MkjTC8NySDB9QkJzl1fv2BPE_xl28d48OU3DLCz5jlE22mEKFW8DfnM6SctecIl4-4TCo5dPoRnTRzenjSFE_jKwsq_3k5ImzPctBKO9dW6lwMM4yBhP6SoPSFGv0WfbQn){: .btn-success target="_blank"} [Call for Presentations](https://cfp.monerokon.com/2023/cfp){: .btn-success target="_blank"}
 
-## Cypherpunk Heros
+## Cypherpunk Heroes
 
 <a href="https://cakewallet.com"><img src="assets/img/cw-logo.png" style="width:100px" hspace="10"></a><a href="https://majesticbank.sc"><img src="assets/img/mb-logo.png" style="width:100px" hspace="10"></a><a href="https://rino.io"><img src="assets/img/rino-logo.png" style="width:120px">
 ## Contributors
