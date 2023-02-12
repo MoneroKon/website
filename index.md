@@ -25,7 +25,7 @@ If your company would like to be a sponsor of MoneroKon 2023, check out the avai
 
 ### Volunteers
 
-We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), fill out the form [here](https://cryptpad.disroot.org/form/#/2/form/view/Z8v7RE0D+Axf+54kTA-otpnJ-Krlfs8gJwoktERKUrM/embed/).
+We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), fill out the form [here](https://d1131e84.sibforms.com/serve/MUIEABihPsgR36EoeKLfokqQExMM14IiyBMOxueWfyUg7yhA6MDJGg5X9Jzirp4ZlQhQF72iW74WryfzXtoOcOumdAizU_IXlblz_dSsRC73d8ySOWSDR3QMp9s4ncnP71CBxp0XzIoFaNceNql2EDZuy_gmjNCJng6a_FvlVu_4S0hC5VGJa5Kg33s7Gjrg-VhwOS48XuZCpneT).
 
 ### Safety and Security
 
