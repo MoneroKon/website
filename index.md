@@ -5,7 +5,7 @@ layout: default
 ### A technical conference in privacy and financial technology
 Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scientists, and philosophers and is designed to disseminate scientific and technical results in privacy and financial technologies like censorship-resistant digital cash. The event is funded by generous donations from the Monero community and support from sponsors. Come participate in discussions, make a proposal, and help us move privacy forward one conversation at a time. A cashless society lacking basic financial privacy can not remain an open society for long.
 
-[Call for Presentations](https://cfp.monerokon.com/2023/cfp){: .btn-success target="_blank"}
+[Buy Ticket](https://shop.monerokon.com/monerokon/2023/){: .btn-success target="_blank"}
 
 ## Cypherpunk Heroes
 
