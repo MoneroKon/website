@@ -19,7 +19,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 - [Nym Technologies](https://nymtech.net)
 
 ## Supporter
-- Company name here
+- [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
 
 ### Sponsorship
 
