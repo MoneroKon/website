@@ -6,7 +6,7 @@
 .button {
   display: inline-block;
   border-radius: 6px;
-  background-color: #ef8734;
+  background-color: #f16822;
   border: none;
   color: #FFFFFF;
   text-align: center;
@@ -46,7 +46,7 @@
 .btn-success {
   display: inline-block;
   border-radius: 4px;
-  background-color: #EDEADE;
+  background-color: #f16822;
   border: 6px solid #5f6164;
   color: #5f6164;
   text-align: center;
@@ -64,52 +64,52 @@
 
 .btn-success:hover {
     color: #FFFFFF;
-    background-color: #ef8734;
+    background-color: #f16822;
 }
 
 body {
-  background-color: #EDEADE;
-  color: #5f6164;
+  background-color: #FFFFFF;
+  color: #4d4d4d;
 }
 
 h1 {
-  color: #5f6164;
+  color: #4d4d4d;
 }
 
 h2 {
-  color: #5f6164;
+  color: #4d4d4d;
 }
 
 h3 {
-  color: #5f6164;
+  color: #4d4d4d;
 }
 
 h4 {
-  color: #5f6164;
+  color: #4d4d4d;
 }
 
 h5 {
-  color: #5f6164;
+  color: #4d4d4d;
 }
 
 a:link {
-  color: #ef8734;
+  color: #f16822;
 }
 
 a:visited {
-  color: #ef8734;
+  color: #f16822;
 }
 
 a:hover {
-  color: #5f6164;
+  color: #f16822;
 }
 
 a:active {
-  color: #252525;
+  color: #f16822;
 }
 
 b, strong {
-   color: #252525;
+   color: #4d4d4d;
    }
 
 .social:hover {filter: invert(83%) sepia(39%) saturate(6755%) hue-rotate(338deg) brightness(98%) contrast(91%); transform: scale(1.2);}
