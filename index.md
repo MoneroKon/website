@@ -7,6 +7,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 
 <a href="https://shop.monerokon.com/monerokon/2023/"><button class="button" style="vertical-align:middle"><span>Buy Ticket </span></button></a>
 <a href="https://cfp.monerokon.com/2023/schedule"><button class="button" style="vertical-align:middle"><span>View Schedule </span></button></a>
+<a href="https://app.getzelos.com/i/U9jEb4sT"><button class="button" style="vertical-align:middle"><span>Volunteer Sign Up </span></button></a>
 
 ## Cypherpunk Heroes
 
