@@ -21,13 +21,17 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 ## Supporter
 - [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
 
+## Media Partners
+- [MoneroTalk](https://www.youtube.com/@MoneroTalk)
+- [CryptoEvents](https://cryptoevents.global)
+
 ### Sponsorship
 
 If your company would like to be a sponsor of MoneroKon 2023, check out the available Conference Sponsorship Packages [here](https://monerokon.com/sponsor).
 
 ### Volunteers
 
-We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), fill out the form [here](https://d1131e84.sibforms.com/serve/MUIEABihPsgR36EoeKLfokqQExMM14IiyBMOxueWfyUg7yhA6MDJGg5X9Jzirp4ZlQhQF72iW74WryfzXtoOcOumdAizU_IXlblz_dSsRC73d8ySOWSDR3QMp9s4ncnP71CBxp0XzIoFaNceNql2EDZuy_gmjNCJng6a_FvlVu_4S0hC5VGJa5Kg33s7Gjrg-VhwOS48XuZCpneT).
+We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity (and get a free ticket + merch in the process), sign up on this platform [here](https://app.getzelos.com/i/U9jEb4sT).
 
 ### Safety and Security
 
