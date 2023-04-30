@@ -1,0 +1,41 @@
+Privacy Advocates and Researchers to Gather for 3rd Annual Monero Conference in Prague
+
+PRAGUE, May 1, 2023 -- The third Monero Konferenco is to take place at Paralelní Polis, Prague from 23rd to 25th June 2023. The conference is focused on disseminating scientific and technical results in privacy-enhancing technologies.
+
+Thanks to donors of the Monero community in a crowdfunding campaign that raised 65,000 EUR in a little over a week, a Monero conference will be coming to Prague, Czech Republic on 23rd-25th June 2023. This follows the success of conferences held in Denver (2019) and Lisbon (2022). Monero Konferenco (also known as 'MoneroKon') brings together global privacy advocates, cypherpunks, and leading scientists to discuss advancements in privacy and financial technology.
+
+The conference will include presentations and workshops on:
+
+- Human Rights and the Blockchain
+- Cryptocurrency Laws and Regulations
+- Unique privacy-preserving cryptographic methods
+- Novel implementations of zero-knowledge cryptographic schemes
+- Social and economic philosophies that promote the ideals of liberty and decentralisation
+
+For the full published schedule, see https://schedule.monerokon.com.
+
+​Tickets can be purchased from ​https://tickets.monerokon.com.
+
+The event sponsors include: Cake Wallet, RINO, Majestic Bank, IVPN, Digilol, Cicada Wallet, NYM, Sweetwater Digital Asset Consulting.
+
+Press passes are available for members of the media who intend to cover the conference; please contact conference organizers to obtain one.
+
+"In front of us, we have CBDCs introduced, privacy rights eroded, our actions tracked and used against us. If you want to fight for a future free from surveillance: this is the place to be in 2023." - - Viktor Vecsei, COO of IVPN, an open-source, audited, privacy focused VPN service with WireGuard and ad+tracker blocking, one of the sponsors of Monero Konferenco 2022. https://www.ivpn.net
+
+"The combination of such a high-signal conference (@MoneroKon) and such a cypherpunk venue and team (@Paralelni_polis) is going to be an absolute can't miss event" - Seth For Privacy, a privacy advocate and the host of Opt Out, a privacy-focused podcast. https://sethforprivacy.com
+
+"[T]here's been nothing like it [the conference] in 'crypto' since Bitcoin events circa 2014." - RINO.io, a self-custody Monero multisignature wallet service provider, one of the sponsors of Monero Konferenco 2022. https://rino.io
+
+"Monero Konferenco isn't just an academic conference. It's a gathering of the smartest minds that are involved with private digital payments." - Vik Sharma, CEO of Cake Wallet, an open-source cryptocurrency mobile wallet that supports the exchange of Monero, Bitcoin, and Litecoin, one of the sponsors of Monero Konferenco 2022. https://cakewallet.com
+
+About Monero
+
+Monero is the leading cryptocurrency focused on private and censorship-resistant transactions. The majority of existing cryptocurrencies, such as Bitcoin and Ethereum, have transparent blockchains, where all wallet addresses and balances are viewable in a public ledger. Monero, on the other hand, encrypts this information by design and by default with the use of various privacy-enhancing technologies to protect the personal data of its users.
+
+For additional information, contact the MoneroKon Organisation Team at orga@monerokon.org.
+
+Related Links
+
+- Official Website: https://monerokon.com
+- Twitter: https://twitter.com/MoneroKon
+- Matrix: https://matrix.to/#/#monero-events:monero.social
