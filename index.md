@@ -17,6 +17,7 @@ Monero Konferenco is an annual meeting of privacy advocates, cypherpunks, scient
 - [Digilol](https://digilol.net)
 - [Cicada Wallet](https://cicadawallet.io)
 - [Nym Technologies](https://nymtech.net)
+- [Liberation Travel](https://Liberation.travel)
 
 ## Supporter
 - [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
