@@ -31,17 +31,15 @@ Ask before snapping, all persons in a photo/video must have explicitly given con
 *  Slides
 *  [Videos](https://www.youtube.com/watch?v=nDLtWyPnx7k&list=PLsSYUeVwrHBnhmKicJpbbFMyKRTU0a7AO)
 *  Sponsors
-   - [RINO](https://rino.io)
    - [Cake Wallet](https://cakewallet.com)
-   - [IVPN](https://www.ivpn.net)
    - [MajesticBank](https://majesticbank.sc)
-   - [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
+   - [RINO](https://rino.io)
    - [CicadaBank](https://cicadabank.com)
-   - [Nym Technologies](https://nymtech.net)
-   - [Liberation Travel](https://Liberation.travel)
    - [Digilol](https://digilol.net)
-   - [MoneroTalk](https://www.youtube.com/@MoneroTalk)
-   - [CryptoEvents](https://cryptoevents.global)
+   - [IVPN](https://www.ivpn.net)
+   - [Liberation Travel](https://Liberation.travel)
+   - [Nym Technologies](https://nymtech.net)
+   - [Sweetwater Digital Asset Consulting, LLC](https://sweetwater.consulting)
 
 #### Lisbon 2022
 *  [Slides](https://github.com/MoneroKon/meta/blob/main/slides/2022/talks.md)
