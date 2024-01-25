@@ -34,7 +34,7 @@ MoneroKon is a non-profit conference that draws an audience passionate about pri
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;"> - </td>
-<td style="height: 23px;">Table, table covers, 2 chairs, and 3x3m tent place in courtyard</td>
+<td style="height: 23px;">Table, table covers, 2 chairs, and 3x3m tent in courtyard</td>
 <td style="height: 23px;">Table, table covers, 2 chairs near entrance of Studio 1 main stage</td>
 </tr>
 <tr style="height: 23px;">
@@ -80,7 +80,6 @@ MoneroKon is a non-profit conference that draws an audience passionate about pri
 <li>Scavenger hunt</li>
 <li>Capture The Flag ("CTF") competition</li>
 <li>Hackathon</li>
-<li>Have something else in mind? Contact us and let's see if we can make it happen.</li>
+<li>Have something else in mind? [Contact us](mailto:orga@monerokon.org) and let's see if we can make it happen.</li>
 </ul>
-<br>
-* Monetary contribution or in-kind products/services of similar value
+*Monetary contribution or in-kind products/services of similar value
