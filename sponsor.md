@@ -19,7 +19,7 @@ MoneroKon is a non-profit conference that draws an audience passionate about pri
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">Company logo placement on roll up banner</td>
-<td style="height: 23px;">Company logo placement on roll up banner and featured prominently on on the Institute of Cryptoanarchy stage ("second stage")</td>
+<td style="height: 23px;">Company logo placement on roll up banner and featured prominently on the Institute of Cryptoanarchy stage ("second stage")</td>
 <td style="height: 23px;">Company logo featured prominently on Paralelní Polis registration front desk and Studio 1 stage ("main stage")</td>
 </tr>
 <tr style="height: 23px;">
@@ -54,7 +54,8 @@ MoneroKon is a non-profit conference that draws an audience passionate about pri
 </tr>
 </tbody>
 </table>
-
+*Monetary contribution or in-kind products/services of similar value
+<br>
 <h2>Activity-based Sponsorship</h2>
 
 <h3>Karaoke Night - 3.000 EUR</h3>
@@ -82,4 +83,3 @@ MoneroKon is a non-profit conference that draws an audience passionate about pri
 <li>Hackathon</li>
 <li>Have something else in mind? [Contact us](mailto:orga@monerokon.org) and let's see if we can make it happen.</li>
 </ul>
-*Monetary contribution or in-kind products/services of similar value
