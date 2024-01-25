@@ -81,5 +81,5 @@ MoneroKon is a non-profit conference that draws an audience passionate about pri
 <li>Scavenger hunt</li>
 <li>Capture The Flag ("CTF") competition</li>
 <li>Hackathon</li>
-<li>Have something else in mind? [Contact us](mailto:orga@monerokon.org) and let's see if we can make it happen.</li>
+<li>Have something else in mind? Contact us and let's see if we can make it happen.</li>
 </ul>
