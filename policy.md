@@ -9,3 +9,15 @@ The MoneroKon will always be a place where people can enjoy technology and cultu
 ### Photo Policy
 
 Ask before snapping, all persons in a photo/video must have explicitly given consent to be photographed/recorded. As such, please avoid taking photos/video of large crowds, audience, or workshop participants.
+
+### Chat Moderation
+
+Chat moderation policy is primarily based on Libera.Chat’s Network Policies/Guidelines and Matrix Code of Conduct. The policy can be found [here](https://github.com/MoneroKon/meta/blob/main/policies/chat-mod.md).
+
+### Sponsor Policy
+
+To ensure clarity and openness in the sponsorship selection process, we have formalized apolicy, which be found [here](https://github.com/MoneroKon/meta/blob/main/policies/sponsorship-policy.md).
+
+### Privacy Policy
+
+We aim to minimize the personal data we need to collect to process orders and communicate event updates. We delete the data as soon as the event is over. More details can be found [here](https://github.com/MoneroKon/meta/blob/main/policies/privacy-policy.md).
