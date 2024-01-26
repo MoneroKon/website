@@ -1,10 +1,7 @@
 ---
 layout: default
 ---
-<h1>Become a Sponsor</h1>
-
-MoneroKon is a non-profit conference that draws an audience passionate about privacy-enhancing technologies. Marking its fourth year, the upcoming event will be held again at the renowned Paralelní Polis in the Czech Republic and we anticipate 200-300 attendees with 30-40 speakers/workshop facilitators. Our commitment to a grassroots atmosphere and ticket price accessibility, sets us apart other from hyper-commercialized events. Generous support of sponsors makes this possible. To showcase your company or project at MoneroKon 2024, contact us at [orga@monerokon.org](mailto:orga@monerokon.org). Explore our sponsorship offerings below.<br>
-<h2>Packages</h2>
+<h2>Sponsorship Packages</h2>
 <table>
 <tbody>
 <tr style="height: 23px;">
