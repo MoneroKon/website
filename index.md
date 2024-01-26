@@ -5,11 +5,11 @@ layout: default
 ### A conference in privacy-enhancing technologies and distributed systems
 Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cypherpunks, researchers, and developers and is designed to disseminate scientific and technical results in privacy-enhancing technologies and distributed systems. Marking its fourth year, the upcoming 3-day event will be held once again at the renowned Paralelní Polis in the Czech Republic from 7th-9th of June 2024. Come participate in discussions, [make a proposal](https://apply.monerokon.org), and help us move privacy forward one conversation at a time.
 
-## Volunteers
+### Volunteers
 
 We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity, sign up [here](https://volunteer.monerokon.org).
 
 ### Become a Sponsor
 
-Our commitment to a grassroots atmosphere and ticket price accessibility, sets us apart from hyper-commercialized events in the space. Generous support of sponsors makes this possible. To showcase your company or project at MoneroKon 2024, contact us at orga@monerokon.org. Explore our sponsorship offerings [here](https://sponsor.monerokon.org).
+Our commitment to a grassroots atmosphere and ticket price accessibility, sets us apart from hyper-commercialized events in the space. Generous support of sponsors makes this possible. To showcase your company or project at MoneroKon 2024, contact us at <a href="mailto:orga@monerokon.org">orga@monerokon.org</a>. Explore our sponsorship offerings [here](https://sponsor.monerokon.org).
 
