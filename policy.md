@@ -2,9 +2,9 @@
 
 All life forms, regardless of their age, gender or upbringing are welcomed at MoneroKon.
 
-We are dedicated to providing a safe and comfortable experience for everybody attending our events, regardless of age, gender, sexual orientation, race, physical appearance or disability. We do not tolerate harassment of participants of the Konferenco in any form. We don't tolerate life forms who refuse to share this openness towards others.
+We are dedicated to providing a safe and comfortable experience for everybody attending our events, regardless of age, gender, sexual orientation, race, physical appearance or disability. We do not tolerate harassment of participants in any form. We don't tolerate life forms who refuse to share this openness towards others.
 
-The MoneroKon will always be a place where people can enjoy technology and culture, no matter what their background is. To keep it that way: If someone is misbehaving and you want support, let a MoneroKon volunteer know, they will be glad to help. Have the courage to ask us!
+The MoneroKon will always be a place where people can enjoy technology and culture, no matter what their background is. To keep it that way: If someone is misbehaving and you want support, let a MoneroKon volunteer know, they will be glad to help.
 
 ### Photo Policy
 
@@ -16,8 +16,8 @@ Chat moderation policy is primarily based on Libera.Chat’s Network Policies/Gu
 
 ### Sponsor Policy
 
-To ensure clarity and openness in the sponsorship selection process, we have formalized apolicy, which be found [here](https://github.com/MoneroKon/meta/blob/main/policies/sponsorship-policy.md).
+To ensure clarity and openness in the sponsorship selection process, we have formalized a sponsor policy, which be found [here](https://github.com/MoneroKon/meta/blob/main/policies/sponsorship-policy.md).
 
 ### Privacy Policy
 
-We aim to minimize the personal data we need to collect to process orders and communicate event updates. We delete the data as soon as the event is over. More details can be found [here](https://github.com/MoneroKon/meta/blob/main/policies/privacy-policy.md).
+We aim to minimize the collection of personal data used for processing orders and communicating event announcements. After the event, we delete the data. More details can be found [here](https://github.com/MoneroKon/meta/blob/main/policies/privacy-policy.md).
