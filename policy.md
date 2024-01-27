@@ -21,3 +21,7 @@ To ensure clarity and openness in the sponsorship selection process, we have for
 ### Privacy Policy
 
 We aim to minimize the collection of personal data used for processing orders and communicating event announcements. After the event, we delete the data. More details can be found [here](/privacy).
+
+### Ticket Refund Policy
+
+All sales are final, no refunds. The 'right of withdrawal' does not apply to contracts for cultural and sporting events scheduled on specific dates.
