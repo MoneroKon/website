@@ -55,15 +55,19 @@ layout: default
 <br>
 <h2>Activity-based Sponsorship</h2>
 
-<h3>Karaoke Night - 3.000 EUR</h3>
+<h3>Chess/Streetfighter/MarioKart Tournaments - 3.000 EUR</h3>
 <ul>
-<li>karaoke, pizza, and beer in Bitcoin Coffee on first evening of MoneroKon</li>
+<li>leaderboards and prizes throughout duration of event</li>
 </ul>
 
-<h3>Casino Night - 3.000 EUR</h3>
+<h3>Karaoke & Pizza Night - 3.000 EUR</h3>
 <ul>
-<li>Texas hold 'em, blackjack, bingo, roulette in Bitcoin Coffee on second evening of MoneroKon</li>
-<li>Monero-branded poker chips</li>
+<li>karaoke and pizza</li>
+</ul>
+
+<h3>Beer Pong - 3.000 EUR</h3>
+<ul>
+<li>Monero-branded pint glasses</li>
 </ul>
 
 <h3>B2B Networking Sunday Brunch - 4.500 EUR</h3>
@@ -74,7 +78,6 @@ layout: default
 
 <h3>Other possible sponsored activities</h3>
 <ul>
-<li>Chess tournament</li>
 <li>Scavenger hunt</li>
 <li>Capture The Flag ("CTF") competition</li>
 <li>Hackathon</li>
