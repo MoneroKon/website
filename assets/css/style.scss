@@ -89,7 +89,7 @@ h4, h5 {
 }
 
 a:link, a:visited, a:hover, a:active {
-  color: #52bfc9;
+  color: #00838f;
   font-family: 'JetBrains Mono', monospace;
 }
 
@@ -118,4 +118,19 @@ b, strong {
   color: #573280;
   letter-spacing: -1px;
   font-family: 'JetBrains Mono', monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #000;
+    color: #fff;
+  }
+
+  a:link, a:visited, a:hover, a:active {
+    color: #52bfc9;
+  }
+
+  h1, h2, h3, .event-info, .event-info a, b, strong {
+    color: #9756df;
+  }
 }
