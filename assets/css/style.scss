@@ -120,6 +120,11 @@ b, strong {
   font-family: 'JetBrains Mono', monospace;
 }
 
+.sitemap {
+  list-style-type: none;
+  padding: 0;
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: #000;
