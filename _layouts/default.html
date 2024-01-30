@@ -7,6 +7,7 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="/assets/icons/font/bootstrap-icons.min.css">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -17,21 +18,23 @@
       <header>
         <img src="/assets/img/mk4.jpg" style="max-width: 100%" alt="MoneroKon" />
         {% if site.github.is_project_page %}
-        <a href="https://www.paralelnipolis.cz">Paralelní Polis</a>/<a href="https://www.lafabrika.cz">La Fabrika</a><br>
-        7th-9th June 2024
+        <div class="event-info">
+          <a href="https://www.paralelnipolis.cz">Paralelní Polis</a> / <a href="https://www.lafabrika.cz">La Fabrika</a><br>
+          7th - 9th June 2O24
+        </div>
         <br><br>
         <h3>Sitemap</h3>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="https://shop.monerokon.org/monerokon/2024/">Buy ticket</a></li>
-          <li><a href="https://cfp.monerokon.org/2024/submit/">Submit proposal</a></li>
-          <li><a href="https://volunteer.monerokon.org">Volunteer</a></li>
-          <li><a href="/sponsor">Sponsor</a></li>
-          <li><a href="/policy">Policies</a></li>
-          <li><a href="https://links.monerokon.org">LinkTree</a></li>
-          <li><a href="https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8">Signal public group</a></li>
-          <li><a href="/impressum">Impressum</a></li>
-          <li><a href="/past">Past events</a></li>
+        <ul class="sitemap">
+          <li><a href="/"><i class="bi bi-house-fill"></i> Home</a></li>
+          <li><a href="https://shop.monerokon.org/monerokon/2024/"><i class="bi bi-ticket-perforated-fill"></i> Buy ticket</a></li>
+          <li><a href="https://cfp.monerokon.org/2024/submit/"><i class="bi bi-easel3-fill"></i> Submit proposal</a></li>
+          <li><a href="https://volunteer.monerokon.org"><i class="bi bi-heart-fill"></i> Volunteer</a></li>
+          <li><a href="/sponsor"><i class="bi bi-lightning-charge-fill"></i> Sponsor</a></li>
+          <li><a href="/policy"><i class="bi bi-person-bounding-box"></i> Policies</a></li>
+          <li><a href="https://links.monerokon.org"><i class="bi bi-link-45deg"></i> LinkTree</a></li>
+          <li><a href="https://signal.group/#CjQKIIOaS7k70kHViXG3SaTmFgyQwt0q3vHLWnmOzV5uVpDYEhAB-VuyOgIVzrpsTLu1UOS8"><i class="bi bi-link-45deg"></i> Signal public group</a></li>
+          <li><a href="/impressum"><i class="bi bi-info-circle-fill"></i> Impressum</a></li>
+          <li><a href="/past"><i class="bi bi-clock-history"></i> Past events</a></li>
         </ul>
 
         {% endif %}
