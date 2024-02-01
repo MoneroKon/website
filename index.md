@@ -11,6 +11,11 @@ Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cyphe
 
 We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity, sign up [here](https://volunteer.monerokon.org).
 
+### MoneroKon 2024 Sponsors
+
+[![logo](assets/img/cw.png){: width="210px" style="text-align:center" }](https://cakewallet.com)
+
+
 ### Become a Sponsor
 
 Our commitment to a grassroots atmosphere and ticket price accessibility, sets us apart from hyper-commercialized events in the space. Generous support of sponsors makes this possible. To showcase your company or project at MoneroKon 2024, contact us at <a href="mailto:orga@monerokon.org">orga@monerokon.org</a>. Explore our sponsorship offerings [here](https://monerokon.org/sponsor).
