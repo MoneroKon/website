@@ -18,5 +18,5 @@ We need lots of help to get this community-driven event off the ground, from gra
 
 ### Become a Sponsor
 
-Our commitment to a grassroots atmosphere and ticket price accessibility, sets us apart from hyper-commercialized events in the space. Generous support of sponsors makes this possible. To showcase your company or project at MoneroKon 2024, contact us at <a href="mailto:orga@monerokon.org">orga@monerokon.org</a>. Explore our sponsorship offerings [here](https://monerokon.org/sponsor).
+Our commitment to a grassroots atmosphere and ticket price accessibility, sets us apart from hyper-commercialized events in the space. Generous support of sponsors makes this possible. Explore our sponsorship offerings [here](https://monerokon.org/sponsor).
 
