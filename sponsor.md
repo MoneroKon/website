@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+<p>To showcase your company or project at MoneroKon 2024, contact us at <a href="mailto:orga@monerokon.org">orga@monerokon.org</a>.</p>
+
 <h2>Sponsorship Packages</h2>
 <table>
 <tbody>
