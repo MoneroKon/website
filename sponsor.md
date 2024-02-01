@@ -41,8 +41,8 @@ layout: default
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">6 available</td>
-<td style="height: 23px;">6 available</td>
-<td style="height: 23px;"><strong>Exclusive</strong>: only 2 available</td>
+<td style="height: 23px;"><s>6</s> 5 available</td>
+<td style="height: 23px;"><strong>Exclusive</strong>: only <s>2</s> 1 available</td>
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;"><strong>2.000 EUR*</strong></td>
