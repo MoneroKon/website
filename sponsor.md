@@ -44,7 +44,7 @@ layout: default
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;">6 available</td>
-<td style="height: 23px;"><s>4</s> 2 available</td>
+<td style="height: 23px;"><s>4</s> 1 available</td>
 <td style="height: 23px;"><strong>Exclusive</strong>: only <s>2</s> 1 available</td>
 </tr>
 <tr style="height: 23px;">
