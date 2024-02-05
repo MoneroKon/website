@@ -43,7 +43,7 @@ layout: default
 <td style="height: 23px;">Company name in end-credits of uploaded videos of talks</td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;">6 available</td>
+<td style="height: 23px;"><s>6</s> 5 available</td>
 <td style="height: 23px;"><s>4</s> 1 available</td>
 <td style="height: 23px;"><strong>Exclusive</strong>: only <s>2</s> 1 available</td>
 </tr>
