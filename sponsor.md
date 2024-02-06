@@ -48,7 +48,7 @@ layout: default
 </tr>
 <tr style="height: 23px;">
 <td style="height: 23px;"><strong>2.000 EUR*</strong></td>
-<td style="height: 23px;"><strong>5.000 EUR</strong></td>
+<td style="height: 23px;"><s>5.000 EUR</s></td>
 <td style="height: 23px;"><strong>9.500 EUR</strong></td>
 </tr>
 </tbody>
