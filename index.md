@@ -19,6 +19,10 @@ We need lots of help to get this community-driven event off the ground, from gra
 
 [![logo](assets/img/nym.png){: width="150px" style="text-align:center" }](https://nymtech.net)
 
+[![logo](assets/img/ivpn.png){: width="150px" style="text-align:center" }](https://ivpn.net)
+
+[![logo](assets/img/trocador.png){: width="150px" style="text-align:center" }](https://trocador.app)
+
 [![logo](assets/img/ve.png){: width="100px" style="text-align:left" }](https://vostoemisio.com) [![logo](assets/img/digilol.png){: width="100px" style="text-align:right" }](https://www.digilol.net)
 
 ### Become a Sponsor
