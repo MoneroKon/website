@@ -13,7 +13,7 @@ We need lots of help to get this community-driven event off the ground, from gra
 
 ### MoneroKon 2024 Sponsors
 
-[![logo](assets/img/cw-logo.png){: width="200px" style="text-align:center" }](https://cakewallet.com)
+[![logo](assets/img/FullLogo_CakeWallet.png){: width="200px" style="text-align:center" }](https://cakewallet.com)
 
 |              |               | 
 | ------------ | ------------- |
