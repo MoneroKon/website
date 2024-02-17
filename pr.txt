@@ -12,7 +12,7 @@ The conference will include presentations and workshops on:
 - Novel implementations of zero-knowledge cryptographic schemes
 - Social and economic philosophies that promote the ideals of liberty and decentralisation
 
-For the full published schedule, see https://schedule.monerokon.com.
+For the full published schedule, see https://schedule.monerokon.org.
 
 ​Tickets can be purchased at ​https://shop.monerokon.org.
 
