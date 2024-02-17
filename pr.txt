@@ -1,8 +1,8 @@
-Privacy Advocates and Researchers to Gather for 3rd Annual Monero Conference in Prague
+Privacy Advocates and Researchers to Gather for 4th Annual Monero Conference in Prague
 
-PRAGUE, May 1, 2023 -- The third Monero Konferenco is to take place at Paralelní Polis, Prague from 23rd to 25th June 2023. The conference is focused on disseminating scientific and technical results in privacy-enhancing technologies.
+PRAGUE -- The fourth Monero Konferenco is to take place at Paralelní Polis, Prague from 7th to 9th June 2024. The conference is focused on disseminating scientific and technical results in privacy-enhancing technologies and distributed systems.
 
-Thanks to donors of the Monero community in a crowdfunding campaign that raised 65.000 EUR in a little over a week, a Monero conference will be coming to Prague, Czech Republic on 23rd-25th June 2023. This follows the success of conferences held in Denver (2019) and Lisbon (2022). Monero Konferenco (also known as 'MoneroKon') brings together global privacy advocates, cypherpunks, and leading scientists to discuss advancements in privacy and financial technology.
+Thanks to donors of the Monero community and sponsors of the event, a Monero conference will be coming to Prague, Czech Republic from 7th-9th June 2024. This follows the success of conferences held in Denver (2019), Lisbon (2022), and Prague (2023). Monero Konferenco (also known as 'MoneroKon') brings together global privacy advocates, cypherpunks, and leading scientists to discuss advancements in privacy and financial technology.
 
 The conference will include presentations and workshops on:
 
@@ -14,9 +14,9 @@ The conference will include presentations and workshops on:
 
 For the full published schedule, see https://schedule.monerokon.com.
 
-​Tickets can be purchased from ​https://tickets.monerokon.com.
+​Tickets can be purchased at ​https://shop.monerokon.org.
 
-The event sponsors include: Cake Wallet, RINO, Majestic Bank, IVPN, Digilol, Cicada Wallet, NYM, Sweetwater Digital Asset Consulting.
+The event sponsors include: Cake Wallet, eXch, NYM, IVPN, EXOLIX, Trocador, Vosto Emisio, and Digilol.
 
 Press passes are available for members of the media who intend to cover the conference; please contact conference organisers to obtain one.
 
@@ -36,6 +36,6 @@ For additional information, contact the MoneroKon Organisation Team at orga@mone
 
 Related Links
 
-- Official Website: https://monerokon.com
+- Official Website: https://monerokon.org
 - Twitter: https://twitter.com/MoneroKon
 - Matrix: https://matrix.to/#/#monero-events:monero.social
