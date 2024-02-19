@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2>Sponsorship</h2>
-<p>To showcase your company or project at MoneroKon 2024, contact us at <a href="mailto:orga@monerokon.org">orga@monerokon.org</a>.</p>
+<p>To showcase your company or project at MoneroKon 2024, contact us at <a href="mailto:orga@monerokon.com">orga@monerokon.com</a>.</p>
 <table>
 <tbody>
 <tr style="height: 23px;">
