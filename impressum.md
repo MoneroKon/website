@@ -4,7 +4,7 @@
 
 Signal: +420 703-981-539
 
-E-mail: orga@monerokon.org
+E-mail: orga@monerokon.com
 
 ID: 21147787
 
