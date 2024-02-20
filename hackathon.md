@@ -47,7 +47,7 @@ And then…
 
 <a href="https://cryptpad.disroot.org/form/#/2/form/view/v04XWFs7YHX-Wn4T97CWYRqNMM-HM1zubnF61wbcJt8/embed/"><button class="button" style="vertical-align:middle"><span>Submit project</span></button></a>
 
-Submission deadline: **13:00 on Sunday, 7 June 2024**
+Submission deadline: **13:00 on Sunday, 9 June 2024**
 
 
 ### When are winners announced?
