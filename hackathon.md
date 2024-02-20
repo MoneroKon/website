@@ -2,12 +2,16 @@
 layout: default
 ---
 
-## MoneroKon 2024 Hackathon
+## MoneroKon 2024 In-person Hackathon
 
-Calling all hackers to join us in Prague this summer, 7-9 June 2024, at Paralelní Polis for MoneroKon’s first hackathon, focused on improving the security, privacy, decentralization, and user experience of Monero. Please note that this is IRL hackathon, only submissions from people present on site will be evaluated. 
+Calling all hackers to join us in Prague this summer, 7-9 June 2024, at Paralelní Polis for MoneroKon’s first hackathon, focused on improving the security, privacy, decentralization, and user experience of Monero. 
 
-Registered hackers get free admission to MoneroKon and complimentary food truck meal tickets.
 
+Please note that this is IRL hackathon, only submissions from people present on site will be evaluated. 
+
+Registered hackers get free admission to MoneroKon, t-shirt, complimentary meal and drinks.
+
+Target number of hackers: 100
 
 ### What to Build
 
@@ -28,16 +32,34 @@ Register as a hacker
 
 <a href="https://cryptpad.disroot.org/form/#/2/form/view/-YPuDmSNIpWnOmUCGN7+Vws8AyPAx-6+bUxHhIu9FaU/embed/"><button class="button" style="vertical-align:middle"><span>Register</span></button></a>
 
-Registration deadline: **07 May 2024 @ 17:00 UTC**
-
 And then…
 
 -	Join the [Signal](https://signal.monerokon.org) and/or [SimpleX](https://simplex.monerokon.org) public groups
 -	Form a team or go solo
--	Review available resources 
--	Check-in Paralelní Polis at **10:00 on Friday, 7 June 2024**
--	Hacking starts at **11:00 on Friday, 7 June 2024**
+-	Review available resources - https://getmonero.dev
 
+### Hackaton Schedule
+
+#### Friday, 7 June 2024
+-	10:00 - 11:00 - Check-in Paralelní Polis, breakfast
+- 11:00 - 12:00 - Opening talks, door prize giveaways
+- 12:00 - 13:00 - Lunch
+-	13:00 - Hacking starts
+-	18:00 - 19:00 - Dinner
+- 23:30 - Midnight snack
+
+#### Saturday, 8 June 2024
+-	09:00 - 10:00 - Breakfast
+- 12:00 - 13:00 - Lunch
+-	18:00 - 19:00 - Dinner
+- 23:30 - Midnight snack
+
+#### Sunday, 9 June 2024
+-	09:00 - 10:00 - Breakfast
+-	11:00 - Project submission deadline
+- 12:00 - 13:00 - Lunch
+- 15:00 - Winners announced on the main stage in Studio 1 (La Fabrika)
+- 15:30 - Hackathon ends
 
 ### How to submit finished project
 
@@ -47,12 +69,8 @@ And then…
 
 <a href="https://cryptpad.disroot.org/form/#/2/form/view/v04XWFs7YHX-Wn4T97CWYRqNMM-HM1zubnF61wbcJt8/embed/"><button class="button" style="vertical-align:middle"><span>Submit project</span></button></a>
 
-Submission deadline: **13:00 on Sunday, 9 June 2024**
+Submission deadline: **11:00 on Sunday, 9 June 2024**
 
-
-### When are winners announced?
-
-Winners are announced on the main stage in Studio 1 (La Fabrika) at **17:00 on Sunday, 7 June 2024**
 
 ### What equipment will be available?
 
