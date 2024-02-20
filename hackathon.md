@@ -24,7 +24,7 @@ Build any app, or improve upon code, related directly, or indirectly, to Monero 
 
 -	Best Code - 2.000 EUR
 -	Best Design - 1.500 EUR
--	Most Innovation - 1.500 EUR
+-	Most Innovative - 1.500 EUR
 
 Prize pool may increase depending on number of sponsors we can get by the event date.
 
