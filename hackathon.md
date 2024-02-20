@@ -13,6 +13,8 @@ Registered hackers get free admission to MoneroKon, t-shirt, complimentary meals
 
 Target number of hackers: 100
 
+Hackers can work in teams or solo.
+
 ### What to Build
 
 Build any app, or improve upon code, related directly, or indirectly, to Monero core codebase, or the greater Monero ecosystem.
@@ -35,8 +37,15 @@ Register as a hacker
 And then…
 
 -	Join the [Signal](https://signal.monerokon.org) and/or [SimpleX](https://simplex.monerokon.org) public groups
--	Form a team or go solo
--	Review available resources - https://getmonero.dev
+-	Order MonerKon ticket with free promo code sent to registered hackers
+
+### Resources
+- [Unofficial Monero Documentation](https://getmonero.dev)
+- [Zero to Monero: Second Edition](https://raw.githubusercontent.com/UkoeHB/Monero-RCT-report/master/Zero-to-Monero-2-0-0.pdf)
+- [Monero Addresses Cheatsheet](https://www.getmonero.org/library/MoneroAddressesCheatsheet20201206.pdf)
+- [Monero Daemon RPC](https://www.getmonero.org/resources/developer-guides/daemon-rpc.html)
+- [Monero Wallet RPC](https://www.getmonero.org/resources/developer-guides/wallet-rpc.html)
+- [Breaking Monero](https://youtube.com/playlist?list=PLsSYUeVwrHBnAUre2G_LYDsdo-tD0ov-y&si=lGcKPFGa9pUs-fze)
 
 ### Hackaton Schedule
 
