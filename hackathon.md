@@ -9,7 +9,7 @@ Calling all hackers to join us in Prague this summer, 7-9 June 2024, at Paraleln
 
 Please note that this is IRL hackathon, only submissions from people present on site will be evaluated. 
 
-Registered hackers get free admission to MoneroKon, t-shirt, complimentary meal and drinks.
+Registered hackers get free admission to MoneroKon, t-shirt, complimentary meals and drinks.
 
 Target number of hackers: 100
 
