@@ -32,7 +32,7 @@ Registration deadline: **07 May 2024 @ 17:00 UTC**
 
 And then…
 
--	Join the [Signal](https://signal.monerokon.org) and/or [SimpleX](https://simplex.monerokon.ord) public groups
+-	Join the [Signal](https://signal.monerokon.org) and/or [SimpleX](https://simplex.monerokon.org) public groups
 -	Form a team or go solo
 -	Review available resources 
 -	Check-in Paralelní Polis at **10:00 on Friday, 7 June 2024**
