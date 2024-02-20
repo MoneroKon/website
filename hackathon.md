@@ -52,6 +52,7 @@ And then…
 -	09:00 - 10:00 - Breakfast
 - 12:00 - 13:00 - Lunch
 -	18:00 - 19:00 - Dinner
+-	20:00 - 21:00 - Hackers 'Show & Tell' 
 - 23:30 - Midnight snack
 
 #### Sunday, 9 June 2024
