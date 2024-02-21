@@ -19,6 +19,17 @@ Hackers can work in teams or solo.
 
 Build any app, or improve upon code, related directly, or indirectly, to Monero core codebase, or the greater Monero ecosystem.
 
+### Projects of interest
+
+Projects may include, but are not limited to:
+
+#### [ETH-XMR atomic swaps](https://github.com/AthanorLabs/atomic-swap)
+-	Preserve privacy of Ethereum users by obfuscating swaps with Zk shielded transactions using something like Railgun or Aztec
+-	Add support for network level privacy with [Tor](https://github.com/AthanorLabs/atomic-swap/issues/29), or some other mixnet such as i2p or Nym
+-	Front-end improvements, e.g., [web UI]( https://github.com/shermand100/AtomicSwap_UI), [Electron app]( https://github.com/AthanorLabs/atomic-swap/issues/496), [wails]( https://github.com/AthanorLabs/atomic-swap/pull/504)
+-	Improvements to [Ethereum Solidity contracts]( https://github.com/AthanorLabs/atomic-swap/tree/master/ethereum/contracts)
+-	Improve support for [ERC-20 tokens](https://github.com/AthanorLabs/atomic-swap/issues/491)
+
 
 ### Prize pool – 5.000 EUR (in XMR)
 
