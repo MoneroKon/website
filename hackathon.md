@@ -30,6 +30,19 @@ Projects may include, but are not limited to:
 -	Improvements to [Ethereum Solidity contracts]( https://github.com/AthanorLabs/atomic-swap/tree/master/ethereum/contracts)
 -	Improve support for [ERC-20 tokens](https://github.com/AthanorLabs/atomic-swap/issues/491)
 
+#### [Farcaster BTC-XMR atomic swaps](https://github.com/farcaster-project)
+- Improvements to [GUI](https://github.com/farcaster-project/farcaster-gui)
+- Add support for network level privacy with [Tor](https://github.com/farcaster-project/farcaster-node/issues/745), or some other mixnet such as i2p or Nym
+- Improvements to [core](https://github.com/farcaster-project/farcaster-core) or [node](https://github.com/farcaster-project/farcaster-node)
+
+#### [Haveno Decentralized P2P exchange](https://github.com/haveno-dex/haveno)
+- Improvements to front-end
+
+#### [Nostr client for Monero](https://bounties.monero.social/posts/94/25-201m-nostr-client-for-monero)
+
+#### [Odysee - Support for tipping in Monero](https://bounties.monero.social/posts/23/9-000m-odysee-support-for-tipping-in-monero)
+
+#### [Improve Nym Monero Transaction Broadcaster](https://bounties.monero.social/posts/6/1-000m-develop-nym-monero-transaction-broadcaster)
 
 ### Prize pool – 5.000 EUR (in XMR)
 
