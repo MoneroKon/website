@@ -7,6 +7,13 @@ Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cyphe
 
 <a href="https://tickets.monerokon.org"><button class="button" style="vertical-align:middle"><span>Buy Ticket</span></button></a>  <a href="https://apply.monerokon.org"><button class="button" style="vertical-align:middle"><span>Submit Proposal</span></button></a> <a href="/hackathon"><button class="button" style="vertical-align:middle"><span>Register as Hacker</span></button></a>
 
+### Confirmed Speakers
+
+|              |               |               |
+| ------------ | ------------- | ------------- |
+| ![logo](assets/img/IMG_0278.png){: width="150px" style="text-align:center" } <br> Aaron Feickert (Cypher Stack)| ![logo](assets/img/IMG_0279.png){: width="150px" style="text-align:center" } <br> AlexAnarcho (alexanarcho.live) | ![logo](assets/img/IMG_0280.png){: width="150px" style="text-align:center" } <br> Alexis Roussel (bity.com) |
+| ![logo](assets/img/IMG_0281.png){: width="150px" style="text-align:center" } <br> Amir Taaki (Dark.fi) | ![logo](assets/img/IMG_0282.png){: width="150px" style="text-align:center" } <br> Evgeny Poberezkin (SimpleX Chat) | ![logo](assets/img/IMG_0283.png){: width="150px" style="text-align:center" } <br> Mark Simkin (Ethereum Foundation)|
+
 ### Volunteers
 
 We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity, sign up [here](https://volunteer.monerokon.org).
