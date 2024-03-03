@@ -14,6 +14,7 @@ Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cyphe
 | ![logo](assets/img/IMG_0278.png){: width="150px" style="text-align:center" } <br><b>Aaron Feickert</b><br>Cypher Stack | ![logo](assets/img/IMG_0279.png){: width="150px" style="text-align:center" } <br><b>AlexAnarcho</b><br>alexanarcho.live | ![logo](assets/img/IMG_0280.png){: width="150px" style="text-align:center" } <br><b>Alexis Roussel</b><br>bity.com |
 | ![logo](assets/img/IMG_0281.png){: width="150px" style="text-align:center" } <br><b>Amir Taaki</b><br>Dark.fi | ![logo](assets/img/IMG_0282.png){: width="150px" style="text-align:center" } <br><b>Evgeny Poberezkin</b><br>SimpleX Chat | ![logo](assets/img/IMG_0283.png){: width="150px" style="text-align:center" } <br><b>Mark Simkin</b><br>Ethereum Foundation |
 | ![logo](assets/img/IMG_0284.png){: width="150px" style="text-align:center" } <br><b>Luke 'Kayaba' Parker</b><br>serai.exchange | ![logo](assets/img/IMG_0285.png){: width="150px" style="text-align:center" } <br><b>andrea</b><br>Monero Policy Workgroup | ![logo](assets/img/IMG_0286.png){: width="150px" style="text-align:center" } <br><b>Ryan</b><br>monerica.com |
+| ![logo](assets/img/IMG_0297.png){: width="150px" style="text-align:center" } <br><b>Rucknium</b><br>Monero Research Lab | ![logo](assets/img/IMG_0299.png){: width="150px" style="text-align:center" } <br><b>recanman</b><br>The Monero Standard | ![logo](assets/img/IMG_0301.png){: width="150px" style="text-align:center" } <br><b>jeffro256</b><br>Monero Dev |
 
 ### Volunteers
 
