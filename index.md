@@ -16,6 +16,7 @@ Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cyphe
 | ![logo](assets/img/IMG_0284.png){: width="150px" style="text-align:center" } <br><b>Luke 'Kayaba' Parker</b><br>serai.exchange | ![logo](assets/img/IMG_0285.png){: width="150px" style="text-align:center" } <br><b>andrea</b><br>Monero Policy Workgroup | ![logo](assets/img/IMG_0286.png){: width="150px" style="text-align:center" } <br><b>Ryan</b><br>monerica.com |
 | ![logo](assets/img/IMG_0297.png){: width="150px" style="text-align:center" } <br><b>Rucknium</b><br>Monero Research Lab | ![logo](assets/img/IMG_0299.png){: width="150px" style="text-align:center" } <br><b>recanman</b><br>The Monero Standard | ![logo](assets/img/IMG_0301.png){: width="150px" style="text-align:center" } <br><b>jeffro256</b><br>Monero Dev |
 | ![logo](assets/img/IMG_0306.png){: width="150px" style="text-align:center" } <br><b>Andriy Khavryuchenko</b><br>Hacker, Ancap | ![logo](assets/img/IMG_0307.png){: width="150px" style="text-align:center" } <br><b>moneromooo</b><br>Townforge | ![logo](assets/img/IMG_0310.png){: width="150px" style="text-align:center" } <br><b>Juraj Bednar</b><br>Cypherpunk, Co-Founder of Paralelní Polis |
+| ![logo](assets/img/IMG_0313.png){: width="150px" style="text-align:center" } <br><b>Michael 'exiledsurfer' Parenti</b><br>CryptoRealist, Co-Founder of Parallele Polis |  | |
 
 ### Volunteers
 
