@@ -4,19 +4,10 @@ This Privacy Policy is effective as of **27 January 2024**.
  
 ### 1. Who we are
 
-Twisted Edwards z.s. (“we” or “us”) is a non-profit association, registered in the Czech Republic. We are primarily responsible for the planning, coordination, and production of MoneroKon (https://www.monerokon.org). We are data controllers, as defined by Regulation (EU) 2016/679 (GDPR).
+T.E. Association (“we” or “us”) is a non-profit association, registered in the Czech Republic. We are primarily responsible for the planning, coordination, and production of MoneroKon (https://www.monerokon.org). We are data controllers, as defined by Regulation (EU) 2016/679 (GDPR).
 
 For further information, we can be contacted at orga+gdpr@monerokon.org. We can also be contacted using the details below.
 
-Address of the controller:
-
-**Twisted Edwards z.s.**, Rybná 716/24, Staré Město, 110 00 Praha 1, Czechia
-
-Signal: +420 703-981-539
-
-ID: 21147787
-
-Registered in commercial register maintained by Municipal court in Prague under file num. L 78655
  
 ### 2. Scope of this Privacy Policy
 
