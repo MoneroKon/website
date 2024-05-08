@@ -19,6 +19,7 @@ We need lots of help to get this community-driven event off the ground, from gra
 | [![logo](assets/img/nym.png){: width="150px" style="text-align:center" }](https://nymtech.net) | [![logo](assets/img/ivpn.png){: width="150px" style="text-align:center" }](https://ivpn.net)    |
 | [![logo](assets/img/exolix.png){: width="150px" style="text-align:center" }](https://exolix.com)       | [![logo](assets/img/trocador.png){: width="150px" style="text-align:center" }](https://trocador.app)    |
 | [![logo](assets/img/IMG_0394.jpeg){: width="150px" style="text-align:center" }](https://tari.com)       | [![logo](assets/img/waku-lockup-vertical-white.png){: width="150px" style="text-align:center" }](https://waku.org) |
-| [![logo](assets/img/IMG_0445.jpeg){: width="150px" style="text-align:center" }](https://shopinbit.com)       |  |
+| [![logo](assets/img/IMG_0445.jpeg){: width="150px" style="text-align:center" }](https://shopinbit.com). | [![logo](assets/img/zano.png){: width="100px" style="text-align:center" }](https://zano.org) |
 | [![logo](assets/img/ve.png){: width="100px" style="text-align:center" }](https://vostoemisio.com)       | [![logo](assets/img/digilol.png){: width="100px" style="text-align:center" }](https://www.digilol.net)          |
-| [![logo](assets/img/IMG_0444.jpeg){: width="100px" style="text-align:center" }](https://firo.org)       |           |
+| [![logo](assets/img/IMG_0444.jpeg){: width="100px" style="text-align:center" }](https://firo.org)       | [![logo](assets/img/magic.png){: width="100px" style="text-align:center" }](https://magicgrants.org) |
+| [![logo](assets/img/sw.png){: width="100px" style="text-align:center" }](https://sweetwater.consulting)       |  |
