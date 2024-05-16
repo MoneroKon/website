@@ -7,7 +7,7 @@ Greetings Volunteer,
 Thank you for joining the Monero[kon] Community and dedicating your time to understand how to get involved! This guide aims to provide all the essential details and nuances you might face while assisting at Monerokon. Like any guide, achieving complete coverage is challenging, so please pardon any oversight and don't hesitate to share any new insights you may discover with the author.
 
 
-###Quick Start
+### Quick Start
 
 
 1. Sign up for a volunteer account at engels.monerokon.org
@@ -27,14 +27,14 @@ Thank you for joining the Monero[kon] Community and dedicating your time to unde
 
 
 
-###What is Monerokon?
+### What is Monerokon?
  
 
 Monero Konferenco (“MoneroKon”) is an annual meeting of privacy advocates, cypherpunks, researchers, and developers and is designed to disseminate scientific and technical results in privacy-enhancing technologies and distributed systems. Marking its fourth year, the upcoming 3-day event will be held once again at the renowned Paralelní Polis in the Czech Republic from 7th-9th of June 2024. Come participate in discussions and help us move privacy forward one conversation at a time.
 
  
 
-###What is a Volunteer?
+### What is a Volunteer?
 
  
 
@@ -42,7 +42,7 @@ Volunteers are individuals who generously contribute their free time to our even
 
  
 
-###Benefits
+### Benefits
 
 
 Volunteering also offers some advantages. While we believe that contributing is gratifying in itself, here are some perks exclusively available to volunteers:
@@ -54,7 +54,7 @@ Volunteering also offers some advantages. While we believe that contributing is 
 
  
 
-###Expectations and Guidelines
+### Expectations and Guidelines
 
  
 
@@ -70,7 +70,7 @@ When volunteering at Monerokon, we have a few simple yet essential expectations 
 
  
 
-###When to arrive?
+### When to arrive?
 
  
 
@@ -80,7 +80,7 @@ So, if you are interested in gaining a more in-depth understanding of event oper
 
  
 
-###Becoming a Hero
+### Becoming a Hero
 
  
 
@@ -88,7 +88,7 @@ For those aspiring to go above and beyond, consider assisting with teardown rath
 
  
 
-###Communication Protocol
+### Communication Protocol
 
  
 
