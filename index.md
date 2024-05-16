@@ -7,6 +7,10 @@ Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cyphe
 
 <a href="https://cfp.monerokon.org/2024/schedule"><button class="button" style="vertical-align:middle"><span>View Schedule</span></button></a><a href="https://shop.monerokon.org/monerokon/2024/"><button class="button" style="vertical-align:middle"><span>Buy Ticket</span></button></a>  <a href="https://monerokon.devfolio.co"><button class="button" style="vertical-align:middle"><span>Apply to Hack</span></button></a>
 
+
+ [![map](assets/img/IMG_0750.jpeg)
+
+
 ### Volunteers
 
 We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity, sign up [here](https://cryptpad.fr/form/#/2/form/view/Y33REJzsGXOwxnC92JDuzGis+B4XVfaWGPLSioJlKVo).
