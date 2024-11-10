@@ -37,11 +37,6 @@ layout: default
 <td style="height: 23px;">6 x Free General Admission promotional codes</td>
 </tr>
 <tr style="height: 23px;">
-<td style="height: 23px;">Company name in end-credits of uploaded videos of talks</td>
-<td style="height: 23px;">Company name in end-credits of uploaded videos of talks</td>
-<td style="height: 23px;">Company name in end-credits of uploaded videos of talks</td>
-</tr>
-<tr style="height: 23px;">
 <td style="height: 23px;"></td>
 <td style="height: 23px;"></td>
 <td style="height: 23px;"></td>
