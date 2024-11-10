@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### A conference & hackathon in privacy-enhancing technologies and distributed systems
+### A conference in privacy-enhancing technologies and distributed systems
 Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cypherpunks, researchers, and developers and is designed to disseminate scientific and technical results in privacy-enhancing technologies and distributed systems.
 
 ### Volunteers
