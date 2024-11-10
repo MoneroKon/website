@@ -7,7 +7,7 @@ Monero Konferenco ("MoneroKon") is an annual meeting of privacy advocates, cyphe
 
 ### Volunteers
 
-We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity, contact us at orga@monerokon.org.
+We need lots of help to get this community-driven event off the ground, from graphic designers, help with attendee registration, to stagehands. If you would like to volunteer in some capacity, contact us at <a href="mailto:orga@monerokon.com">orga@monerokon.org</a>.
 
 <iframe data-w-type="embedded" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://sgvlw.mjt.lu/wgt/sgvlw/xgug/form?c=6ae40040" width="100%" style="height: 0;"></iframe>
 
